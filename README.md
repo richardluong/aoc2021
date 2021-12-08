@@ -1,0 +1,3 @@
+# Advent of code 2021
+
+Here are my solutions for the 2021 version of Advent of code. This time I will try to stick to using Scala only. Let's see how it goes ...
